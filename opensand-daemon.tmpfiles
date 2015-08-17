@@ -1,0 +1,2 @@
+d /run/sand-daemon 755 opensand daemon
+d /var/cache/sand-daemon 755 opensand daemon
